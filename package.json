@@ -1,0 +1,24 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rhine",
+  "license": "MIT",
+  "dependencies": {
+    "@chainlink/contracts": "^0.2.2",
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "@openzeppelin/contracts": "^4.3.2",
+    "dotenv": "^10.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.4",
+    "hardhat-gas-reporter": "^1.0.8",
+    "ipfs": "^0.62.1",
+    "ipfs-http-client": "^56.0.1",
+    "xlsx": "^0.18.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "d3b85aab84a8810e2d0caf38dd1cdfc5e3ea11d8",
+    "edition": 1,
+    "date": 1644910781215,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "a07a9dad7fa467f9841644fe96e551bec34fca68",
+    "edition": 2,
+    "date": 1644910781348,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "7a30586659fb2b09112dea97a4b3f5b5a9fa053a",
+    "edition": 3,
+    "date": 1644910781472,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "fd2de567531cf2cf141ae865a79d806a0251357d",
+    "edition": 4,
+    "date": 1644910781580,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "59ed9aa1f8dba18e866485aeda070367f75a8c6f",
+    "edition": 5,
+    "date": 1644910781706,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
