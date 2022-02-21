@@ -9,7 +9,7 @@ var provider = new ethers.providers.WebSocketProvider(
   "rinkeby"
 );
 let privateKey =
-  "ab7e38d61beb866114641f544da1d5266e53eac1fd4b16efde5bfd5374959a68";
+  "";
 let wallet = new ethers.Wallet(privateKey, provider);
 let CONTRACT_ABI = require("./Tools/ABI.json");
 let rinkebyAddress = "0xC6eEFDe423548BddB93b33834bC6C8e7902c4210";
